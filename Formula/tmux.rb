@@ -1,7 +1,7 @@
 class Tmux < Formula
   desc "Terminal multiplexer (built from HEAD for latest fixes)"
   homepage "https://tmux.github.io/"
-  url "https://github.com/happyjake/tmux.git", branch: "master"
+  url "https://github.com/tmux/tmux.git", branch: "master"
   version "head"
   license "ISC"
 
